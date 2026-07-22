@@ -15,13 +15,14 @@ Unlike the original PhaseNet(Zhu and Beroza, 2019), the FC model predicts probab
 | LS | S phase of LFEs |
 | Noise | Background Noise |
 
+For model training, we used event waveform data corresponding to picking values in the JMA unified hypocenter catalog (hereafter, JMA catalog), which were compiled by Naoi et al. (2024).
+
 Files
 ----------------------------------------------
 - ./model/model_epoch_143.pt
-  - Pretrained FC model
+  - Pretrained FC model obtained by training with the JMA Unified dataset for 2014-2022.
 - ./tutorial_fc_model.ipynb
-  - Sample program to use the pretrained weights in the model directory, where were obtained through training with the JMA Unified dataset for 2014-2022.
-
+  - Sample program to use the pretrained weights in the model directory.
 References
 ----------------------------------------------
 - Zhu and Beroza (2019), doi: 10.1093/gji/ggy423
