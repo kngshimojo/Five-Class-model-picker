@@ -20,4 +20,9 @@ Files
 - ./model/model_epoch_143.pt
   - Pretrained model
 - ./tutorial_fc_model.ipynb
-  - Sample program to use the weights in the model directory, where were obtained through training with the JMA Unified dataset for 2014-2022.
+  - Sample program to use the pretrained weights in the model directory, where were obtained through training with the JMA Unified dataset for 2014-2022.
+
+References
+----------------------------------------------
+- Zhu and Beroza (2019), doi: 10.1093/gji/ggy423
+- The paper detailing these released models is currently under peer review for an academic journal.
