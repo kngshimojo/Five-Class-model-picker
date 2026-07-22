@@ -26,4 +26,5 @@ Files
 References
 ----------------------------------------------
 - Zhu and Beroza (2019), doi: 10.1093/gji/ggy423
+- Naoi et al. (2024), doi: 10.1186/s40623-024-02091-8
 - The paper detailing these released models is currently under peer review for an academic journal.
