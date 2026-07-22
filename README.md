@@ -1,4 +1,4 @@
-## Five-class classification model by PhaseNet-based model
+## Phasenet-based Five-class classification model
 ----------------------------------------------
 
 Overview
