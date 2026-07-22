@@ -23,6 +23,7 @@ Files
   - Pretrained FC model obtained by training with the JMA Unified dataset for 2014-2022.
 - ./tutorial_fc_model.ipynb
   - Sample program to use the pretrained weights in the model directory.
+
 References
 ----------------------------------------------
 - Zhu and Beroza (2019), doi: 10.1093/gji/ggy423
